@@ -50,6 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @author		EllisLab Dev Team
  * @link		https://codeigniter.com/userguide3/general/controllers.html
  */
+#[allowdynamicproperties]
 class CI_Controller {
 
 	/**
