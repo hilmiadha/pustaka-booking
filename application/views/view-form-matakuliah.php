@@ -19,7 +19,7 @@
                 </tr>
                 <tr>
                     <th>Kode MTK</th>
-                    <th>:</th>
+                    <td>:</td>
                     <td>
                     <input type="text" name="kode" id="kode">
                     </td>
